@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cpa-2019-act",
+    "title": "Consumer Protection Act, 2019 (Act No. 35 of 2019)",
+    "issuing_authority": "Ministry of Law and Justice / Legislative Department",
+    "document_type": "Principal Act / Statute",
+    "date_or_version": "Act passed Aug 2019; Enforced July 2020",
+    "official_url": "https://www.indiacode.nic.in/handle/123456789/15256",
+    "domain": "indiacode.nic.in",
+    "description": "The foundational legislation replacing the 1986 Act, establishing the Central Consumer Protection Authority (CCPA), introducing product liability, strict rules on misleading ads, and enabling electronic filing.",
+    "key_sections": ["Section 2 (Definitions)", "Section 10-27 (CCPA)", "Section 28-73 (Commissions)", "Section 82-87 (Product Liability)"],
+    "verified": true
+  },
+  {
+    "id": "ecommerce-rules-2020",
+    "title": "Consumer Protection (E-Commerce) Rules, 2020",
+    "issuing_authority": "Department of Consumer Affairs, Ministry of Consumer Affairs, Food and Public Distribution",
+    "document_type": "Statutory Rules",
+    "date_or_version": "Notification No. G.S.R. 462(E), 23 July 2020 (as amended)",
+    "official_url": "https://consumeraffairs.nic.in/acts-and-rules/consumer-protection",
+    "domain": "consumeraffairs.nic.in",
+    "description": "Rules governing marketplace and inventory e-commerce entities, regulating cancellation fees, mandatory appointment of grievance officers, transparency of prices, country of origin, and return rules.",
+    "key_sections": ["Rule 4 (Duties of e-commerce entities)", "Rule 5 (Marketplace liabilities)", "Rule 6 (Seller duties)", "Rule 7 (Unfair trade practices)"],
+    "verified": true
+  },
+  {
+    "id": "ccpa-misleading-ads-2022",
+    "title": "Guidelines for Prevention of Misleading Advertisements and Endorsements, 2022",
+    "issuing_authority": "Central Consumer Protection Authority (CCPA)",
+    "document_type": "Statutory Guidelines",
+    "date_or_version": "Notification dated 9 June 2022",
+    "official_url": "https://consumeraffairs.nic.in/guidelines/ccpa-guidelines",
+    "domain": "consumeraffairs.nic.in",
+    "description": "Defines parameters for valid advertisements, bait advertisements, surrogate ads, free claim ads, disclaimers, and establishes duties and due diligence required of endorsers and manufacturers.",
+    "key_sections": ["Guideline 4 (Conditions for non-misleading ads)", "Guideline 5 (Bait ads)", "Guideline 7 (Free claims)", "Guideline 13 (Endorser due diligence)"],
+    "verified": true
+  },
+  {
+    "id": "nch-portal-guidance",
+    "title": "National Consumer Helpline (NCH) Pre-Litigation Grievance Redressal",
+    "issuing_authority": "Department of Consumer Affairs & Indian Institute of Public Administration (IIPA)",
+    "document_type": "Official Guidance & Redressal Service",
+    "date_or_version": "Operational standard 2024 (Toll-Free 1915 / NCH 2.0)",
+    "official_url": "https://consumerhelpline.gov.in/",
+    "domain": "consumerhelpline.gov.in",
+    "description": "Pre-litigation helpline operating over 1000+ converged corporate entities for speedy resolution without filing court petitions. Reachable via 1915, WhatsApp, SMS, or UMANG app.",
+    "key_sections": ["Convergence model", "Docket registration", "17 Indian languages support", "Average resolution timeline"],
+    "verified": true
+  },
+  {
+    "id": "edaakhil-system-guide",
+    "title": "e-Daakhil: Consumer Commission Online Filing Portal Manual",
+    "issuing_authority": "National Consumer Disputes Redressal Commission (NCDRC) / National Informatics Centre (NIC)",
+    "document_type": "E-Governance Portal Manual",
+    "date_or_version": "Version 3.2, 2023",
+    "official_url": "https://edaakhil.nic.in",
+    "domain": "edaakhil.nic.in",
+    "description": "Digital platform enabling consumers to electronically file petitions, pay court fees via Bharatkosh, submit rejoinders, and inspect proceeding cause lists across District, State, and National Commissions.",
+    "key_sections": ["User registration with OTP", "Fee schedule & payment gateway", "Document upload guidelines", "Virtual hearing integration"],
+    "verified": true
+  },
+  {
+    "id": "cdrc-jurisdiction-rules-2021",
+    "title": "Consumer Protection (Jurisdiction of the District Commission, State Commission and National Commission) Rules, 2021",
+    "issuing_authority": "Department of Consumer Affairs",
+    "document_type": "Statutory Rules",
+    "date_or_version": "Notification No. G.S.R. 883(E), 30 December 2021",
+    "official_url": "https://consumeraffairs.nic.in/acts-and-rules/consumer-protection",
+    "domain": "consumeraffairs.nic.in",
+    "description": "Revised pecuniary limits for consumer commissions: District Commission up to ₹50 Lakh, State Commission above ₹50 Lakh to ₹2 Crore, and National Commission above ₹2 Crore (calculated on consideration paid).",
+    "key_sections": ["Rule 2 (Jurisdiction determination based on consideration paid)", "Rule 3 (District threshold ₹50L)", "Rule 4 (State threshold ₹2Cr)"],
+    "verified": true
+  }
+]

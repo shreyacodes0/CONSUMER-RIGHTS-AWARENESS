@@ -1,0 +1,8 @@
+{
+  "name": "Remix NyayaDesk",
+  "description": "Indian legal information and consumer awareness platform with verified citations and legal document retrieval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "defective-products",
+    "title": "Defective Products",
+    "short_description": "Understand protections and liability rules relating to defective goods and faulty products.",
+    "reviewed_answer": "Under Indian consumer law, a consumer who purchases a good that suffers from any fault, imperfection, or shortcoming in quality, quantity, or purity has the right to replacement, repair, or full refund. The Consumer Protection Act, 2019 introduces strict 'Product Liability', allowing consumers to claim compensation from manufacturers, service providers, and sellers for harm caused by defective products.",
+    "legal_provision": "Consumer Protection Act, 2019 — Section 2(10) (Definition of 'Defect'), Section 2(11) ('Deficiency'), and Chapter VI, Sections 84–86 (Product Liability Actions).",
+    "source_citation": "Consumer Protection Act, 2019 (Act No. 35 of 2019), Ministry of Law and Justice, Gazette of India.",
+    "official_url": "https://www.indiacode.nic.in/handle/123456789/15256",
+    "procedure": [
+      "Gather evidence: Preserve the original tax invoice, packaging, warranty card, and photographs/videos demonstrating the defect.",
+      "Issue written notice: Send a formal written communication or email to the seller and manufacturer stating the exact defect and requesting repair, replacement, or refund within a reasonable timeframe (e.g., 7–15 days).",
+      "National Consumer Helpline (NCH): If the merchant does not resolve the issue, call 1915 or register an informal grievance online at consumerhelpline.gov.in.",
+      "Formal Commission Complaint: If pre-litigation fails, file a formal complaint before the District Consumer Commission via the e-Daakhil portal (edaakhil.nic.in) within 2 years of the cause of action."
+    ],
+    "is_verified": true,
+    "verification_status": "Verified against official gazette text (CPA 2019)",
+    "suggested_questions": [
+      "Can a seller deny liability by blaming the manufacturer for a defective product?",
+      "What is the limitation period to file a complaint for a defective product?",
+      "Can I claim compensation if a defective electronic product damaged my property?"
+    ]
+  },
+  {
+    "id": "refund-and-return",
+    "title": "Refund and Return Issues",
+    "short_description": "Explore statutory rules and fair practices governing refunds, returns, and cancellation fees.",
+    "reviewed_answer": "Under the Consumer Protection Act, 2019 and the Consumer Protection (E-Commerce) Rules, 2020, sellers and platforms cannot impose arbitrary cancellation charges or refuse returns if goods are defective, deficient, delivered late, or materially different from what was described. Refusing a legitimate refund within the promised or statutory window constitutes an Unfair Trade Practice.",
+    "legal_provision": "Consumer Protection (E-Commerce) Rules, 2020 — Rule 6(1) & Rule 7; Consumer Protection Act, 2019 — Section 2(47) (Unfair Trade Practice).",
+    "source_citation": "Consumer Protection (E-Commerce) Rules, 2020, G.S.R. 462(E), Department of Consumer Affairs.",
+    "official_url": "https://consumeraffairs.nic.in/acts-and-rules/consumer-protection",
+    "procedure": [
+      "Review platform policy: Check the return window stipulated at the time of purchase; ensure you notify the entity within that timeframe.",
+      "Lodge formal return request: Retain return request IDs, courier pickup receipts, and cancellation screenshots.",
+      "Escalate to Grievance Officer: Under Rule 5(4) of E-Commerce Rules, every e-commerce entity must acknowledge grievances within 48 hours and resolve within 1 month.",
+      "NCH Grievance: If the refund remains withheld without valid cause, lodge a ticket on the National Consumer Helpline (1915 or SMS to 8800001915)."
+    ],
+    "is_verified": true,
+    "verification_status": "Verified against official gazette text (E-Commerce Rules 2020 & CPA 2019)",
+    "suggested_questions": [
+      "Can an e-commerce platform charge cancellation fees if they cancel the order?",
+      "Is a 'No Return, No Refund' policy legal under Indian consumer law?",
+      "How many days does an e-commerce portal have to resolve a refund complaint?"
+    ]
+  },
+  {
+    "id": "misleading-advertisements",
+    "title": "Misleading Advertisements",
+    "short_description": "Learn about applicable statutory protections and CCPA powers against false or deceptive advertisements.",
+    "reviewed_answer": "The law strictly prohibits advertisements that falsely describe a product or service, make unverified claims or guarantees, conceal crucial information, or convey representations that mislead the public. The Central Consumer Protection Authority (CCPA) is empowered to investigate misleading ads, order discontinuance, and impose financial penalties on manufacturers, advertisers, and endorsers.",
+    "legal_provision": "Consumer Protection Act, 2019 — Section 2(28) (Definition of 'Misleading Advertisement'), Section 10(1), and Section 21 (Powers of CCPA to issue directions and penalties).",
+    "source_citation": "Central Consumer Protection Authority (CCPA) Guidelines for Prevention of Misleading Advertisements and Endorsements, 2022.",
+    "official_url": "https://consumeraffairs.nic.in/guidelines/ccpa-guidelines",
+    "procedure": [
+      "Document the advertisement: Capture timestamped screenshots, video recordings, brochures, or URLs of the promotional claims.",
+      "Compare with delivered product: Highlight specific discrepancies between the claimed specification and the actual product.",
+      "Submit report to CCPA: Send an official complaint to the Central Consumer Protection Authority via email (cp-ccpa@nic.in) or consumerhelpline.gov.in.",
+      "Seek personal redressal: If you incurred financial loss due to reliance on a deceptive advertisement, file a claim for refund and compensation before the District Consumer Commission."
+    ],
+    "is_verified": true,
+    "verification_status": "Verified against official gazette text (CPA 2019 & CCPA Guidelines 2022)",
+    "suggested_questions": [
+      "What is the maximum penalty for a misleading advertisement under CPA 2019?",
+      "Are celebrity endorsers liable for misleading advertisements in India?",
+      "Can the CCPA order an advertiser to publish a corrective advertisement?"
+    ]
+  },
+  {
+    "id": "online-shopping",
+    "title": "Online Shopping Protections",
+    "short_description": "Explore consumer safeguards for e-commerce, marketplace entities, and digital transactions.",
+    "reviewed_answer": "The Consumer Protection (E-Commerce) Rules, 2020 apply to all marketplace and inventory e-commerce entities selling goods or services to consumers in India. Entities are mandated to disclose seller identities, geographical addresses, total price breakdown (including taxes and freight), country of origin, and explicit return/refund policies. Marketplace platforms cannot manipulate search results to favor specific sellers.",
+    "legal_provision": "Consumer Protection (E-Commerce) Rules, 2020 — Rules 4, 5, 6, and 7 (Duties of e-commerce entities, marketplace entities, and sellers).",
+    "source_citation": "Department of Consumer Affairs, Notification No. G.S.R. 462(E), dated 23rd July, 2020.",
+    "official_url": "https://consumeraffairs.nic.in/acts-and-rules/consumer-protection",
+    "procedure": [
+      "Verify seller details: Confirm the seller's legal entity name, customer care phone, and physical address listed on the product page.",
+      "Unboxing record: For high-value digital orders, film an uninterrupted unboxing video showing the shipping label and sealed packaging.",
+      "Internal ticket: File a complaint within the e-commerce mobile app/website and request a ticket reference number.",
+      "Statutory escalation: If the entity fails to acknowledge within 48 hours or resolve within 30 days, file with NCH (1915) or e-Daakhil."
+    ],
+    "is_verified": true,
+    "verification_status": "Verified against official gazette text (E-Commerce Rules 2020)",
+    "suggested_questions": [
+      "Are e-commerce platforms required to appoint a Grievance Officer in India?",
+      "What details must an online seller display about the country of origin?",
+      "Can an online platform refuse responsibility for fake products sold by third-party sellers?"
+    ]
+  },
+  {
+    "id": "warranty-and-guarantees",
+    "title": "Warranty and Guarantees",
+    "short_description": "Understand statutory warranty compliance, service obligations, and remedies for service deficiency.",
+    "reviewed_answer": "A warranty or guarantee is a binding contractual and statutory commitment under Indian law. If a manufacturer or authorized service center fails to honor valid warranty terms, delays repairs unreasonably, or attempts to charge for repairs covered by the warranty, such conduct constitutes a 'Deficiency in Service' under Section 2(11) of the Act and breaches product liability provisions under Section 84.",
+    "legal_provision": "Consumer Protection Act, 2019 — Section 2(11) ('Deficiency in Service'), Section 2(47) (Unfair Trade Practice), and Section 84(1)(e) (Product Liability for failure to conform to express warranty).",
+    "source_citation": "Consumer Protection Act, 2019, Section 84(1)(e), Ministry of Law and Justice.",
+    "official_url": "https://www.indiacode.nic.in/handle/123456789/15256",
+    "procedure": [
+      "Preserve proof: Maintain the tax invoice, official warranty card with serial number, and timestamped purchase confirmation.",
+      "Obtain Job Sheet: Always obtain an authorized service job sheet showing the date of deposit, reported symptom, and technician remarks.",
+      "Escalate within brand: Write to the brand's Grievance Redressal / Escalation matrix before the warranty expiration.",
+      "Formal action: If replacement or repair is denied without contractual justification, lodge a grievance with NCH (1915) or file via e-Daakhil."
+    ],
+    "is_verified": true,
+    "verification_status": "Verified against official gazette text (CPA 2019)",
+    "suggested_questions": [
+      "Can an authorized service center void warranty without giving a written reason?",
+      "Does a replacement product come with a fresh warranty period?",
+      "What constitutes 'Deficiency in Service' during warranty repairs?"
+    ]
+  },
+  {
+    "id": "consumer-complaint-procedures",
+    "title": "Consumer Complaint Procedures",
+    "short_description": "Find information about recognised dispute resolution channels, e-Daakhil, and Commission hierarchies.",
+    "reviewed_answer": "India has a structured, three-tier quasi-judicial consumer disputes redressal mechanism under the Consumer Protection Act, 2019. Before litigation, consumers can seek speedy informal redressal through the National Consumer Helpline (1915). For formal adjudication, complaints are submitted through the digital e-Daakhil system (edaakhil.nic.in) or filed directly before the District, State, or National Commission based on value.",
+    "legal_provision": "Consumer Protection Act, 2019 — Chapter IV, Sections 28, 34, 35, 47, 58, 69; Consumer Protection (Consumer Disputes Redressal Commissions) Rules, 2020.",
+    "source_citation": "Consumer Protection Act, 2019, Chapter IV; Department of Consumer Affairs.",
+    "official_url": "https://edaakhil.nic.in",
+    "procedure": [
+      "Step 1 (Informal Grievance): Contact the merchant, then escalate to National Consumer Helpline by dialing 1915, sending an SMS to 8800001915, or visiting consumerhelpline.gov.in.",
+      "Step 2 (Determine Pecuniary Jurisdiction): Value of goods/services paid up to ₹50 Lakh goes to District Commission; exceeding ₹50 Lakh up to ₹2 Crore goes to State Commission; exceeding ₹2 Crore goes to National Commission (NCDRC, New Delhi).",
+      "Step 3 (Territorial Jurisdiction): A complaint can be filed where the complainant resides, works for gain, or where the cause of action arose.",
+      "Step 4 (Limitation Period): Under Section 69, complaints must be filed within 2 years from the date the cause of action arose.",
+      "Step 5 (Filing via e-Daakhil): Register on edaakhil.nic.in, upload complaint petition, affidavit, supporting documents, pay prescribed nominal fee, and track hearing schedules online."
+    ],
+    "is_verified": true,
+    "verification_status": "Verified against official gazette text and e-Daakhil procedures",
+    "suggested_questions": [
+      "What are the revised pecuniary limits for District, State, and National Consumer Commissions?",
+      "What is the statutory limitation period for filing a consumer complaint?",
+      "Is an advocate or lawyer mandatory to represent a consumer before the Consumer Commission?"
+    ]
+  }
+]
